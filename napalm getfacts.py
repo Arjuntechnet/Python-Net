@@ -1,6 +1,6 @@
 #NAPALM
 
-#Network automation and programmability abstraction layer with multivendoer support
+#Network automation and programmability abstraction layer with multivendor support
 #This code extracts basic device information using get facts function on Cisco devices
 
 
