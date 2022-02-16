@@ -11,4 +11,5 @@ iosvl2 = driver('192.168.122.72', 'arjun', 'cisco')
 iosvl2.open()
 
 ios_output = iosvl2.get_facts()
+iosvl2.close()
 print ios_output
